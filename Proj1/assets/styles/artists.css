@@ -1,0 +1,88 @@
+body {
+    /* background-color: white; */
+    background-image: linear-gradient(#EDF4EC, #C6E2E8);
+}
+
+#Artist {
+    font-size: 55pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #707070;
+    /* transform: translate(4%, -50%) */
+    margin-left: 4%;
+    margin-top: -5%;
+}
+
+/* #bodycontent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+} */
+
+#About-Artist {
+    display: flex;
+    flex-direction: row;
+    transform: translate(35%, -20%)
+}
+#Titles {
+    font-size: 30pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #707070;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-content: center; */
+    /* transform: translate(35%) */
+    /* margin-left: 35%; */
+    /* margin-top: -5%; */
+}
+#sec, #sec1 {
+    margin-top: -3%;
+}
+#sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Content {
+    font-size: 30pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    color: #707070;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transform: translate(8%);
+}
+#About-the-Artist {
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transform: translate(35%, -30%)
+}
+#header {
+    font-size: 35pt;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+#info {
+    font-size: 35;
+    font-style: italic;
+    margin-top: -2%
+}
+#picture {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: flex-start; 
+    transform: translate(-21%, -75%) scale(.5);
+}
+#daniel-caesar {
+    display: flex;
+    flex-direction: 
+}

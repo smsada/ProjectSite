@@ -1,0 +1,62 @@
+nav {
+    display: flex;
+    padding: 0px 5px 10px 5px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    flex-direction: row;
+    justify-content: flex-start;
+    /* align-items: center; */
+    /* font-family: 'Helvetic Neue', 'Helvetica', 'Roboto', Lora, sans-serif; */
+    /* font-family: 'San Francisco', 'Segoe UI', 'Ubuntu', sans-serif; */
+}
+
+#Top-Bar {
+    display: flex;
+    padding: 10px 5px 10px 5px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    /* font-family: 'Helvetic Neue', 'Helvetica', 'Roboto', Lora, sans-serif; */
+    /* font-family: 'San Francisco', 'Segoe UI', 'Ubuntu', sans-serif; */    
+}
+
+/* nav {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: lightgreen;
+    height: 80px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+} */
+
+#option {
+    display: block;
+    padding: 0px 35px;
+    box-sizing: border-box;
+    color: #707070;
+    text-decoration: none;
+    font-size: 16pt;
+}
+
+#option:hover {
+    text-decoration: underline;
+}
+
